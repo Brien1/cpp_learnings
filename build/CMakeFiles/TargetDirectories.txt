@@ -1,0 +1,16 @@
+/Users/brienhall/Desktop/new_project/build/CMakeFiles/hello_test.dir
+/Users/brienhall/Desktop/new_project/build/CMakeFiles/main.dir
+/Users/brienhall/Desktop/new_project/build/CMakeFiles/test.dir
+/Users/brienhall/Desktop/new_project/build/CMakeFiles/edit_cache.dir
+/Users/brienhall/Desktop/new_project/build/CMakeFiles/rebuild_cache.dir
+/Users/brienhall/Desktop/new_project/build/src/CMakeFiles/srclib.dir
+/Users/brienhall/Desktop/new_project/build/src/CMakeFiles/test.dir
+/Users/brienhall/Desktop/new_project/build/src/CMakeFiles/edit_cache.dir
+/Users/brienhall/Desktop/new_project/build/src/CMakeFiles/rebuild_cache.dir
+/Users/brienhall/Desktop/new_project/build/tests/CMakeFiles/testslib.dir
+/Users/brienhall/Desktop/new_project/build/tests/CMakeFiles/test.dir
+/Users/brienhall/Desktop/new_project/build/tests/CMakeFiles/edit_cache.dir
+/Users/brienhall/Desktop/new_project/build/tests/CMakeFiles/rebuild_cache.dir
+/Users/brienhall/Desktop/new_project/build/_deps/catch2-build/CMakeFiles/test.dir
+/Users/brienhall/Desktop/new_project/build/_deps/catch2-build/CMakeFiles/edit_cache.dir
+/Users/brienhall/Desktop/new_project/build/_deps/catch2-build/CMakeFiles/rebuild_cache.dir

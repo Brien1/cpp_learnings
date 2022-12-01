@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.html": "html",
+        "iosfwd": "cpp",
+        "fstream": "cpp",
+        "locale": "cpp",
+        "string": "cpp",
+        "filesystem": "cpp"
+    }
+}

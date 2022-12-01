@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsrclib.a CMakeFiles/srclib.dir/main.cpp.o CMakeFiles/srclib.dir/square.cpp.o
+/usr/bin/ranlib libsrclib.a

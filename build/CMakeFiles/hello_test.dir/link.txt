@@ -1,0 +1,1 @@
+/usr/bin/clang++ -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/hello_test.dir/tests/hello_test.cpp.o CMakeFiles/hello_test.dir/tests/square_test.cpp.o -o hello_test  src/libsrclib.a tests/libtestslib.a 

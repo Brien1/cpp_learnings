@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/Users/brienhall/Desktop/new_project/build",
+  "command": "/usr/bin/clang++  -I/Users/brienhall/Desktop/new_project/build/_deps/catch2-src/single_include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk -std=gnu++14 -o CMakeFiles/hello_test.dir/tests/hello_test.cpp.o -c /Users/brienhall/Desktop/new_project/tests/hello_test.cpp",
+  "file": "/Users/brienhall/Desktop/new_project/tests/hello_test.cpp"
+},
+{
+  "directory": "/Users/brienhall/Desktop/new_project/build",
+  "command": "/usr/bin/clang++  -I/Users/brienhall/Desktop/new_project/build/_deps/catch2-src/single_include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk -std=gnu++14 -o CMakeFiles/hello_test.dir/tests/square_test.cpp.o -c /Users/brienhall/Desktop/new_project/tests/square_test.cpp",
+  "file": "/Users/brienhall/Desktop/new_project/tests/square_test.cpp"
+},
+{
+  "directory": "/Users/brienhall/Desktop/new_project/build",
+  "command": "/usr/bin/clang++  -I/Users/brienhall/Desktop/new_project/build/_deps/catch2-src/single_include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk -std=gnu++14 -o CMakeFiles/main.dir/src/main.cpp.o -c /Users/brienhall/Desktop/new_project/src/main.cpp",
+  "file": "/Users/brienhall/Desktop/new_project/src/main.cpp"
+},
+{
+  "directory": "/Users/brienhall/Desktop/new_project/build/src",
+  "command": "/usr/bin/clang++  -I/Users/brienhall/Desktop/new_project/build/_deps/catch2-src/single_include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk -std=gnu++14 -o CMakeFiles/srclib.dir/main.cpp.o -c /Users/brienhall/Desktop/new_project/src/main.cpp",
+  "file": "/Users/brienhall/Desktop/new_project/src/main.cpp"
+},
+{
+  "directory": "/Users/brienhall/Desktop/new_project/build/src",
+  "command": "/usr/bin/clang++  -I/Users/brienhall/Desktop/new_project/build/_deps/catch2-src/single_include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk -std=gnu++14 -o CMakeFiles/srclib.dir/square.cpp.o -c /Users/brienhall/Desktop/new_project/src/square.cpp",
+  "file": "/Users/brienhall/Desktop/new_project/src/square.cpp"
+},
+{
+  "directory": "/Users/brienhall/Desktop/new_project/build/tests",
+  "command": "/usr/bin/clang++  -I/Users/brienhall/Desktop/new_project/build/_deps/catch2-src/single_include -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk -std=gnu++14 -o CMakeFiles/testslib.dir/hello_test.cpp.o -c /Users/brienhall/Desktop/new_project/tests/hello_test.cpp",
+  "file": "/Users/brienhall/Desktop/new_project/tests/hello_test.cpp"
+}
+]
